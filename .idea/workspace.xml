@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2206bec-03ed-40a8-b5ad-8355fc600ed0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/merge_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quick_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,9 +29,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/merge_sort.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/quick_sort.py" />
   </component>
-  <component name="RunManager" selected="Python.merge_sort">
+  <component name="RunManager" selected="Python.quick_sort">
     <configuration name="bubble_sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sorting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quick_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sorting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merge_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quick_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,12 +97,12 @@
     </configuration>
     <list>
       <item itemvalue="Python.bubble_sort" />
-      <item itemvalue="Python.merge_sort" />
+      <item itemvalue="Python.quick_sort" />
       <item itemvalue="Python.bubble_sort (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.merge_sort" />
+        <item itemvalue="Python.quick_sort" />
         <item itemvalue="Python.bubble_sort (1)" />
       </list>
     </recent_temporary>
