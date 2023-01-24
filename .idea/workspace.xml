@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/selection_sort.py" />
   </component>
-  <component name="RunManager" selected="Python.bubble_sort (1)">
+  <component name="RunManager" selected="Python.selection_sort">
     <configuration name="bubble_sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sorting" />
       <option name="INTERPRETER_OPTIONS" value="" />
